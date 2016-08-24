@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Bionyx.WebApi.ReportingServices.Common": "1.0.0-*",
+    "Microsoft.ReportingServices.Interfaces": "13.0.0.0",
+    "Microsoft.AspNet.WebApi.Client": "5.2.3",
+    "System.Data.Common": "4.1.0"
+  },
+
+  "frameworks": {
+    "net451": {
+      "frameworkAssemblies": {
+        "System.ComponentModel.DataAnnotations": "4.0.0.0",
+        "System.Xml": "4.0.0.0"
+      }
+    }
+  }
+}
