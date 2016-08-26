@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microsoft.ReportingServices.Interfaces</id>
+    <version>13.0.0.0</version>
+    <authors>Microsoft Corporation</authors>
+    <owners>Microsoft Corporation</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright 2016</copyright>
+    <description>Microsoft.ReportingServices.Interfaces</description>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
